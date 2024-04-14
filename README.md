@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @verbumsanctum-yt
-- 👀 I’m interested in ... spreading the holy word of the lord
+- 👀 I’m interested in ... spreading the Holy word of the Lord
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... nothing at the moment
 
 <!---
 verbumsanctum-yt/verbumsanctum-yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
