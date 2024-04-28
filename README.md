@@ -6,8 +6,8 @@ Hello! I'm **Verbum Sanctum**, a digital repository dedicated to spreading the H
 
 Verbum Sanctum is a unique initiative that leverages technology to enhance biblical scholarship and accessibility. Our goal is to provide insightful, accurate, and spiritually enriching content that resonates with believers and seekers of truth alike.
 
-## 💡 Verse of the Day
+## 💡 Verse of the Month
 
-> "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life." - John 3:16
+> "This is the day which Jehovah hath made; We will rejoice and be glad in it." - Psalm 118:24
 
-Let's spread the Good News together! 🕊️
+Let's spread the Good Word together! 🕊️
